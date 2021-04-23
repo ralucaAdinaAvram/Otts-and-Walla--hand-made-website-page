@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Otts and Walla</title>
+     <!-- Styles
+        --------------->
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet"
+    <a href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+</head>
+<body>
+      <div class="page-holder">
+            <header class="header bg-white">
+                 <div class="container px-0 px-lg-3">
+                    <nav class="navbar navbar-expand-lg navbar-light py-3 px-lg-0"><a class="navbar-brand" href="index.html"><span class="font-weight-bold text-capitalize text-dark">Otts and Walla</span></a>
+                    <div class="collapse navbar-collapse">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="item">
+                                <a class="nav-link active" href="#"><small class="text-secondary">HOME</small></a>
+                                <li class="item">
+                                    <a class="nav-link active" href="#"><small class="text-secondary">SHOP</small></a>
+                                </li>
+                                <li class="item">
+                                    <a class="nav-link active" href="#"><small class="text-secondary">ABOUT</small></a>
+                                </li>
+                                <li class="item">
+                                    <a class="nav-link active" href="#"><small class="text-secondary">CONTACT</small></a>
+                                </li>
+                                <li class="item">
+                                    <a class="nav-link active" href="#"><small class="text-secondary">NEWS</small></a>
+                                </li>
+                            </li>
+                        </ul>
+
+                        <ul class="navbar-nav ml-auto">
+                             <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-shopping-cart text-gray mr-1">Cart</i></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+                
+             
+             </header>
+
+
+             <!--Hero Section-->
+
+             <div class="mb-0">
+                <img src="5-20 Otts and Walla/assets/img/hero.jpg" alt="BANNER" class="w-100">
+            </div>
+
+
+            <!--Our Brand-->
+
+            <section class="bg-white py-3">
+                <div class="d-flex align-items-left">
+                    <h3 class="font-weight-bold text-secondary">Our Brand</h3>
+                    <br>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+                    </p>
+                </div>
+            </section>
+
+
+
+
+
+
+          <section>
+              <p>hand made</p>
+
+          </section>
+
+
+          <footer>
+
+          </footer>
+
+
+
+    </div>
+     
+</body>
+</html>
